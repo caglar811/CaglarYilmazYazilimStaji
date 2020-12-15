@@ -1,0 +1,172 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model IEnumerable<Ev>
+<!-- ======= Intro Section ======= -->
+<div class="intro intro-carousel">
+    <div id="carousel" class="owl-carousel owl-theme">
+        <div class="carousel-item-a intro-item bg-image" style="background-image: url(/assets/img/slide-1.jpg)">
+            <div class="overlay overlay-a"></div>
+            <div class="intro-content display-table">
+                <div class="table-cell">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-8">
+                                <div class="intro-body">
+                                    <p class="intro-title-top">
+                                        Akçakoca , Düzce
+                                        <br> 78345
+                                    </p>
+                                    <h1 class="intro-title mb-4">
+                                        <span class="color-b">204 </span> Dağ Evi
+                                        <br> Tahirli Yolu
+                                    </h1>
+                                    <p class="intro-subtitle intro-price">
+                                        <a href="#"><span class="price-a">Fiyat | 42.500 ₺</span></a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="carousel-item-a intro-item bg-image" style="background-image: url(/assets/img/slide-2.jpg)">
+            <div class="overlay overlay-a"></div>
+            <div class="intro-content display-table">
+                <div class="table-cell">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-8">
+                                <div class="intro-body">
+                                    <p class="intro-title-top">
+                                        Kınık Köyü
+                                        <br> 815000
+                                    </p>
+                                    <h1 class="intro-title mb-4">
+                                        <span class="color-b">204 </span> Düzce
+                                        <br> Yol Üstü
+                                    </h1>
+                                    <p class="intro-subtitle intro-price">
+                                        <a href="#"><span class="price-a">Kiralık | 64.000 ₺</span></a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="carousel-item-a intro-item bg-image" style="background-image: url(/assets/img/slide-3.jpg)">
+            <div class="overlay overlay-a"></div>
+            <div class="intro-content display-table">
+                <div class="table-cell">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-8">
+                                <div class="intro-body">
+                                    <p class="intro-title-top">
+                                        Akçakoca/Düzce
+                                        <br> 81500
+                                    </p>
+                                    <h1 class="intro-title mb-4">
+                                        <span class="color-b">204 </span> Akçakoca
+                                        <br> E-5 Yanı
+                                    </h1>
+                                    <p class="intro-subtitle intro-price">
+                                        <a href="#"><span class="price-a">Kiralık | 48.000 ₺</span></a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><!-- End Intro Section -->
+
+<main id="main">
+
+    <!-- ======= Services Section ======= -->
+    <!-- ======= Latest Properties Section ======= -->
+    <section class="section-property section-t8" id="kiralik">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="title-wrap d-flex justify-content-between">
+                        <div class="title-box">
+                            <h2 class="title-a">Kiralık Evler</h2>
+                        </div>
+                        <div class="title-link">
+                            <a href="~/Ilan">
+                                Tümünü Gör
+                                <span class="ion-ios-arrow-forward"></span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="property-carousel" class="owl-carousel owl-theme">
+                @foreach (var item in Model.Take(3))
+                {
+                    <div class="carousel-item-b">
+                        <div class="card-box-a card-shadow">
+                            <div class="img-box-a">
+                                <img src="/assets/img/property-6.jpg" alt="" class="img-a img-fluid">
+                            </div>
+                            <div class="card-overlay">
+                                <div class="card-overlay-a-content">
+                                    <div class="card-header-a">
+                                        <h2 class="card-title-a">
+                                            <a href="property-single.html">
+                                               @item.IlanBaslik
+                                            </a>
+                                        </h2>
+                                    </div>
+                                    <div class="card-body-a">
+                                        <div class="price-box d-flex">
+                                            <span class="price-a">@item.IlanTip | @item.Fiyat ₺</span>
+                                        </div>
+                                        <a href="~/@item.user.UserName/Ilan/@item.IlanID" class="link-a">
+                                            Detaylı Bilgi İçin Tıklayınız
+                                            <span class="ion-ios-arrow-forward"></span>
+                                        </a>
+                                    </div>
+                                    <div class="card-footer-a">
+                                        <ul class="card-info d-flex justify-content-around">
+                                            <li>
+                                                <h4 class="card-info-title">Alan</h4>
+                                                <center>
+                                                    <span>
+                                                        @item.YuzOlcumu m
+                                                        <sup>2</sup>
+                                                    </span>
+                                                </center>
+
+                                            </li>
+                                            <li>
+                                                <h4 class="card-info-title">Yatak Odası</h4>
+                                                <center><span>@item.YatakOdasi</span></center>
+                                            </li>
+                                            <li>
+                                                <h4 class="card-info-title">Banyo</h4>
+                                                <center> <span>@item.Banyo</span></center>
+                                            </li>
+                                            <li>
+                                                <h4 class="card-info-title">Garaj</h4>
+                                                <center><span>@item.Garaj</span></center>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+
+            </div>
+        </div>
+    </section>
+</main><!-- End #main -->

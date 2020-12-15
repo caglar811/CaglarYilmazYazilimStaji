@@ -1,0 +1,104 @@
+﻿@model IEnumerable<StajProje.Models.Ev>
+
+@{
+    ViewData["Title"] = "Ilanlarım";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<section class="intro-single">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-lg-8">
+                <div class="title-single-box">
+                    <h1 class="title-single">Yayınladığınız İlanlar</h1>
+                    <span class="color-text-a"></span>
+                </div>
+            </div>
+            <div class="col-md-12 col-lg-4">
+                <nav aria-label="breadcrumb" class="breadcrumb-box d-flex justify-content-lg-end">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item">
+                            <a href="#">İlan</a>
+                        </li>
+                        <li class="breadcrumb-item active" aria-current="page">
+                           İlanlarım
+                        </li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+    </div>
+</section><!-- End Intro Single-->
+
+<div class="container-fluid">
+
+
+    <p>
+        <center><a asp-action="IlanEkle">Yeni İlan Ver</a></center> 
+    </p>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.IlanBaslik)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.IlanTip)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.resim)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Fiyat)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.YuzOlcumu)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.YatakOdasi)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Banyo)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Garaj)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.IlanBaslik)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.IlanTip)
+                    </td>
+                    <td>
+                        <img src="~/img/ilan/@item.resim" width="50" height="50" />
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Fiyat)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.YuzOlcumu)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.YatakOdasi)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Banyo)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Garaj)
+                    </td>
+                    <td>
+                        <a asp-action="IlanGuncelle" asp-route-id="@item.IlanID">Güncelle</a> |
+                        <a asp-action="IlanSil" asp-route-id="@item.IlanID">Sil</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

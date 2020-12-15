@@ -1,0 +1,105 @@
+﻿@model StajProje.Models.Ev
+
+@{
+    ViewData["Title"] = "IlanGuncelle";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section class="intro-single">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-lg-8">
+                <div class="title-single-box">
+                    <h1 class="title-single">İlan Güncelle</h1>
+                    <span class="color-text-a"></span>
+                </div>
+            </div>
+            <div class="col-md-12 col-lg-4">
+                <nav aria-label="breadcrumb" class="breadcrumb-box d-flex justify-content-lg-end">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item">
+                            <a href="#">İlan</a>
+                        </li>
+                        <li class="breadcrumb-item active" aria-current="page">
+                            Güncelle
+                        </li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+    </div>
+</section><!-- End Intro Single-->
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-4">
+            <form asp-action="IlanGuncelle" enctype="multipart/form-data">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <input type="hidden" asp-for="IlanID" />
+                <div class="form-group">
+                    <label asp-for="IlanBaslik" class="control-label"></label>
+                    <input asp-for="IlanBaslik" class="form-control" />
+                    <span asp-validation-for="IlanBaslik" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="IlanTip" class="control-label"></label>
+                    <select id="Select1" asp-for="IlanTip" class="form-control">
+                        <option>Kiralık</option>
+                        <option>Satılık</option>
+                    </select>
+                    <span asp-validation-for="IlanTip" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="resim" class="control-label">Resim</label>
+                    <input type="hidden" asp-for="resim" />
+                    <input asp-for="resim" type="file" class="form-control-file" id="exampleFormControlFile1">
+                    <span asp-validation-for="resim" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Fiyat" class="control-label"></label>
+                    <input asp-for="Fiyat" class="form-control" />
+                    <span asp-validation-for="Fiyat" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="YuzOlcumu" class="control-label"></label>
+                    <input asp-for="YuzOlcumu" class="form-control" />
+                    <span asp-validation-for="YuzOlcumu" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="YatakOdasi" class="control-label"></label>
+                    <input asp-for="YatakOdasi" class="form-control" />
+                    <span asp-validation-for="YatakOdasi" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Banyo" class="control-label"></label>
+                    <input asp-for="Banyo" class="form-control" />
+                    <span asp-validation-for="Banyo" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Garaj" class="control-label"></label>
+                    <input asp-for="Garaj" class="form-control" />
+                    <span asp-validation-for="Garaj" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="IlanAciklama" class="control-label"></label>
+                    <input asp-for="IlanAciklama" class="form-control" />
+                    <span asp-validation-for="IlanAciklama" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Adress" class="control-label"></label>
+                    <input asp-for="Adress" class="form-control" />
+                    <span asp-validation-for="Adress" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Kaydet" class="btn btn-success" />
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div>
+        <a asp-action="Index">Back to List</a>
+    </div>
+</div>

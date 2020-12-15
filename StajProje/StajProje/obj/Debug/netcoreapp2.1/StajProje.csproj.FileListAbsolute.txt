@@ -1,0 +1,112 @@
+C:\Users\cglr8\source\repos\StajProje\StajProje\bin\Debug\netcoreapp2.1\StajProje.deps.json
+C:\Users\cglr8\source\repos\StajProje\StajProje\bin\Debug\netcoreapp2.1\StajProje.runtimeconfig.json
+C:\Users\cglr8\source\repos\StajProje\StajProje\bin\Debug\netcoreapp2.1\StajProje.runtimeconfig.dev.json
+C:\Users\cglr8\source\repos\StajProje\StajProje\bin\Debug\netcoreapp2.1\StajProje.dll
+C:\Users\cglr8\source\repos\StajProje\StajProje\bin\Debug\netcoreapp2.1\StajProje.pdb
+C:\Users\cglr8\source\repos\StajProje\StajProje\bin\Debug\netcoreapp2.1\StajProje.Views.dll
+C:\Users\cglr8\source\repos\StajProje\StajProje\bin\Debug\netcoreapp2.1\StajProje.Views.pdb
+C:\Users\cglr8\source\repos\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.csprojAssemblyReference.cache
+C:\Users\cglr8\source\repos\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.csproj.CoreCompileInputs.cache
+C:\Users\cglr8\source\repos\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.RazorAssemblyInfo.cache
+C:\Users\cglr8\source\repos\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.RazorAssemblyInfo.cs
+C:\Users\cglr8\source\repos\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.AssemblyInfoInputs.cache
+C:\Users\cglr8\source\repos\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.AssemblyInfo.cs
+C:\Users\cglr8\source\repos\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.TagHelpers.input.cache
+C:\Users\cglr8\source\repos\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.TagHelpers.output.cache
+C:\Users\cglr8\source\repos\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.RazorCoreGenerate.cache
+C:\Users\cglr8\source\repos\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\cglr8\source\repos\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\cglr8\source\repos\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\cglr8\source\repos\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\cglr8\source\repos\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\cglr8\source\repos\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\cglr8\source\repos\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\cglr8\source\repos\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\cglr8\source\repos\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\cglr8\source\repos\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\cglr8\source\repos\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.RazorTargetAssemblyInfo.cache
+C:\Users\cglr8\source\repos\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.RazorTargetAssemblyInfo.cs
+C:\Users\cglr8\source\repos\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.Views.pdb
+C:\Users\cglr8\source\repos\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.dll
+C:\Users\cglr8\source\repos\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.pdb
+C:\Users\cglr8\source\repos\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.csproj.CopyComplete
+C:\Users\HP\Desktop\StajProje\StajProje\bin\Debug\netcoreapp2.1\StajProje.deps.json
+C:\Users\HP\Desktop\StajProje\StajProje\bin\Debug\netcoreapp2.1\StajProje.runtimeconfig.json
+C:\Users\HP\Desktop\StajProje\StajProje\bin\Debug\netcoreapp2.1\StajProje.runtimeconfig.dev.json
+C:\Users\HP\Desktop\StajProje\StajProje\bin\Debug\netcoreapp2.1\StajProje.dll
+C:\Users\HP\Desktop\StajProje\StajProje\bin\Debug\netcoreapp2.1\StajProje.pdb
+C:\Users\HP\Desktop\StajProje\StajProje\bin\Debug\netcoreapp2.1\StajProje.Views.dll
+C:\Users\HP\Desktop\StajProje\StajProje\bin\Debug\netcoreapp2.1\StajProje.Views.pdb
+C:\Users\HP\Desktop\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.AssemblyInfo.cs
+C:\Users\HP\Desktop\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.TagHelpers.input.cache
+C:\Users\HP\Desktop\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.TagHelpers.output.cache
+C:\Users\HP\Desktop\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.RazorCoreGenerate.cache
+C:\Users\HP\Desktop\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\HP\Desktop\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\HP\Desktop\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\HP\Desktop\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\HP\Desktop\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\HP\Desktop\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\HP\Desktop\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\HP\Desktop\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\HP\Desktop\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\HP\Desktop\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\HP\Desktop\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Desktop\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.RazorTargetAssemblyInfo.cs
+C:\Users\HP\Desktop\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.Views.pdb
+C:\Users\HP\Desktop\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.dll
+C:\Users\HP\Desktop\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.pdb
+C:\Users\HP\Desktop\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.csproj.CopyComplete
+C:\Users\HP\Desktop\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\HP\Desktop\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\HP\Desktop\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\Ilan\Index.g.cshtml.cs
+C:\Users\HP\Desktop\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\Ilan\IlanEkle.g.cshtml.cs
+C:\Users\HP\Desktop\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\Ilan\Ilanlarim.g.cshtml.cs
+C:\Users\HP\Desktop\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\Ilan\IlanGuncelle.g.cshtml.cs
+C:\Users\HP\Desktop\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\Ilan\IlanDetay.g.cshtml.cs
+C:\Users\HP\Desktop\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\Ilan\Ara.g.cshtml.cs
+C:\Users\cglr8\OneDrive\Masaüstü\StajProje Güncel Aramalı Hali\StajProje\StajProje\bin\Debug\netcoreapp2.1\StajProje.deps.json
+C:\Users\cglr8\OneDrive\Masaüstü\StajProje Güncel Aramalı Hali\StajProje\StajProje\bin\Debug\netcoreapp2.1\StajProje.runtimeconfig.json
+C:\Users\cglr8\OneDrive\Masaüstü\StajProje Güncel Aramalı Hali\StajProje\StajProje\bin\Debug\netcoreapp2.1\StajProje.runtimeconfig.dev.json
+C:\Users\cglr8\OneDrive\Masaüstü\StajProje Güncel Aramalı Hali\StajProje\StajProje\bin\Debug\netcoreapp2.1\StajProje.dll
+C:\Users\cglr8\OneDrive\Masaüstü\StajProje Güncel Aramalı Hali\StajProje\StajProje\bin\Debug\netcoreapp2.1\StajProje.pdb
+C:\Users\cglr8\OneDrive\Masaüstü\StajProje Güncel Aramalı Hali\StajProje\StajProje\bin\Debug\netcoreapp2.1\StajProje.Views.dll
+C:\Users\cglr8\OneDrive\Masaüstü\StajProje Güncel Aramalı Hali\StajProje\StajProje\bin\Debug\netcoreapp2.1\StajProje.Views.pdb
+C:\Users\cglr8\OneDrive\Masaüstü\StajProje Güncel Aramalı Hali\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.csprojAssemblyReference.cache
+C:\Users\cglr8\OneDrive\Masaüstü\StajProje Güncel Aramalı Hali\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.csproj.CoreCompileInputs.cache
+C:\Users\cglr8\OneDrive\Masaüstü\StajProje Güncel Aramalı Hali\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.RazorAssemblyInfo.cache
+C:\Users\cglr8\OneDrive\Masaüstü\StajProje Güncel Aramalı Hali\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.RazorAssemblyInfo.cs
+C:\Users\cglr8\OneDrive\Masaüstü\StajProje Güncel Aramalı Hali\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.AssemblyInfoInputs.cache
+C:\Users\cglr8\OneDrive\Masaüstü\StajProje Güncel Aramalı Hali\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.AssemblyInfo.cs
+C:\Users\cglr8\OneDrive\Masaüstü\StajProje Güncel Aramalı Hali\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.TagHelpers.input.cache
+C:\Users\cglr8\OneDrive\Masaüstü\StajProje Güncel Aramalı Hali\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.TagHelpers.output.cache
+C:\Users\cglr8\OneDrive\Masaüstü\StajProje Güncel Aramalı Hali\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.RazorCoreGenerate.cache
+C:\Users\cglr8\OneDrive\Masaüstü\StajProje Güncel Aramalı Hali\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\cglr8\OneDrive\Masaüstü\StajProje Güncel Aramalı Hali\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\cglr8\OneDrive\Masaüstü\StajProje Güncel Aramalı Hali\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\cglr8\OneDrive\Masaüstü\StajProje Güncel Aramalı Hali\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\cglr8\OneDrive\Masaüstü\StajProje Güncel Aramalı Hali\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\cglr8\OneDrive\Masaüstü\StajProje Güncel Aramalı Hali\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\cglr8\OneDrive\Masaüstü\StajProje Güncel Aramalı Hali\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\Ilan\Ara.g.cshtml.cs
+C:\Users\cglr8\OneDrive\Masaüstü\StajProje Güncel Aramalı Hali\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\Ilan\IlanDetay.g.cshtml.cs
+C:\Users\cglr8\OneDrive\Masaüstü\StajProje Güncel Aramalı Hali\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\Ilan\IlanEkle.g.cshtml.cs
+C:\Users\cglr8\OneDrive\Masaüstü\StajProje Güncel Aramalı Hali\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\Ilan\IlanGuncelle.g.cshtml.cs
+C:\Users\cglr8\OneDrive\Masaüstü\StajProje Güncel Aramalı Hali\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\Ilan\Ilanlarim.g.cshtml.cs
+C:\Users\cglr8\OneDrive\Masaüstü\StajProje Güncel Aramalı Hali\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\Ilan\Index.g.cshtml.cs
+C:\Users\cglr8\OneDrive\Masaüstü\StajProje Güncel Aramalı Hali\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\cglr8\OneDrive\Masaüstü\StajProje Güncel Aramalı Hali\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\cglr8\OneDrive\Masaüstü\StajProje Güncel Aramalı Hali\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\cglr8\OneDrive\Masaüstü\StajProje Güncel Aramalı Hali\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\cglr8\OneDrive\Masaüstü\StajProje Güncel Aramalı Hali\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\cglr8\OneDrive\Masaüstü\StajProje Güncel Aramalı Hali\StajProje\StajProje\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\cglr8\OneDrive\Masaüstü\StajProje Güncel Aramalı Hali\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.RazorTargetAssemblyInfo.cache
+C:\Users\cglr8\OneDrive\Masaüstü\StajProje Güncel Aramalı Hali\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.RazorTargetAssemblyInfo.cs
+C:\Users\cglr8\OneDrive\Masaüstü\StajProje Güncel Aramalı Hali\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.Views.pdb
+C:\Users\cglr8\OneDrive\Masaüstü\StajProje Güncel Aramalı Hali\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.dll
+C:\Users\cglr8\OneDrive\Masaüstü\StajProje Güncel Aramalı Hali\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.pdb
+C:\Users\cglr8\OneDrive\Masaüstü\StajProje Güncel Aramalı Hali\StajProje\StajProje\obj\Debug\netcoreapp2.1\StajProje.csproj.CopyComplete
